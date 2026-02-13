@@ -11,4 +11,4 @@ Personal portfolio website for **Saurabh Anant** — Lead MTS, SDET.
 ## Files
 - `index.html` — Portfolio (single-file, self-contained)
 - `CNAME` — Custom domain config
-- `resume.pdf` — Downloadable resume (add manually)
+- `resume.pdf` — Downloadable resume (add manually) 
